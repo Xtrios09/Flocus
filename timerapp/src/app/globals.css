@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+
+:root {
+  --background: #111111;
+  --foreground: #ededed;
+  --primary-1: #4d4d4d;
+  --primary-2: #3c3c3c;
+  --primary-3: #1e1e1e;
+  --primary-4: #111111;
+  --primary-5: #000000;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Figtree', Arial, Helvetica, sans-serif;
+}
