@@ -24,7 +24,7 @@
 
 1. **Clone the repository**
 	 ```bash
-	 git clone <your-repo-url>
+	 git clone https://Xtrios09.github.io/Flocus/
 	 cd timerapp
 	 ```
 
