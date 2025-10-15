@@ -2,6 +2,7 @@
 # ⏰ Flocus Timer App
 
 >A beautiful, modern productivity app built with Next.js, React, and Tailwind CSS. Combines a Pomodoro timer, persistent Todo list, and a music playlist for focused work—all in one seamless experience.
+>Demo version : https://flocus-cyan.vercel.app/
 
 ---
 <img width="1688" height="951" alt="Screenshot From 2025-10-15 13-43-36" src="https://github.com/user-attachments/assets/a2e93ffa-00c4-4408-b135-d5997a8a2da2" />
